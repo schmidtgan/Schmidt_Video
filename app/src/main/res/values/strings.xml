@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">DiorVideo</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="home_title">首页</string>
+    <string name="blog_title">我的博客</string>
+    <string name="about_title">关于GanDior</string>
+    <string name="a_name">Cold Air</string>
+    <string name="b_name">For now I am winter</string>
+    <string name="c_name">II soffio e la voce</string>
+    <string name="d_name">Island</string>
+    <string name="e_name">Thirty people away</string>
+    <string name="app_description">1、电话：13236255593\n
+        2、微信：schmidtgan\n
+        3、QQ：1486008053\n
+        4、欢迎交流，谢谢
+    </string>
+    <string name="channel_series">电视剧</string>
+    <string name="channel_movie">电影</string>
+    <string name="channel_comic">动漫</string>
+    <string name="channel_documentary">纪录片</string>
+    <string name="channel_music">音乐</string>
+    <string name="channel_variety">综艺</string>
+    <string name="channel_live">直播</string>
+    <string name="channel_favorite">收藏</string>
+    <string name="channel_history">历史</string>
+    <string name="data_failed_tip">数据加载失败,请检查网络!</string>
+    <string name="load_more_text">正在加载新数据...</string>
+    <string name="no_date_text">暂时没有数据...</string>
+
+    <string name="ss1">日本有码</string>
+    <string name="ss2">日本无码</string>
+    <string name="ss3">欧美电影</string>
+    <string name="ss4">人妻熟女</string>
+    <string name="ss5">丝袜美腿</string>
+    <string name="ss6">亚洲色图</string>
+    <string name="ss7">美女直播</string>
+    <string name="ss8">收藏</string>
+    <string name="ss9y">历史</string>
+</resources>
